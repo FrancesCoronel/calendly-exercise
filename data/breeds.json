@@ -1,0 +1,31 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "name": "Labrador Retriever",
+      "origin": "United Kingdom",
+      "lifespan": "10-14 years",
+      "friendliness": 5,
+      "shedding": 3,
+      "description": "The Labrador Retriever, often abbreviated to Labrador, is a breed of retriever-gun dog from the United Kingdom that was developed from imported Canadian fishing dogs."
+    },
+    {
+      "id": 2,
+      "name": "German Shepherd",
+      "origin": "Germany",
+      "lifespan": "9-13 years",
+      "friendliness": 4,
+      "shedding": 5,
+      "description": "The German Shepherd is a breed of working dog known for its intelligence and versatility as a police, service and working dog."
+    },
+    {
+      "id": 3,
+      "name": "Beagle",
+      "origin": "England",
+      "lifespan": "10-15 years",
+      "friendliness": 5,
+      "shedding": 3,
+      "description": "The Beagle is a breed of small hound that is similar in appearance to the much larger foxhound. The Beagle is a scent hound, developed primarily for hunting hare."
+    }
+  ]
+}
