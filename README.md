@@ -1,6 +1,10 @@
-# Dog Breeds Website
+# Dog Breeds
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Take-home technical exercise for a Software Engineer role.
+
+A content-driven website displaying dog breeds sourced from Contentful CMS.
+
+**Company:** [Calendly](https://calendly.com)
 
 ## Getting Started
 
